@@ -4,4 +4,6 @@ This is a minimal project with an editor script that generates a terrain object 
 
 The script is called via the menu GameObject > 3D Object > RetroMap.
 
+![Generated terrain](sinusterrain.png)
+
 The source code is in `Assets/Editor/CreateTerrain.cs`.
